@@ -1,1 +1,1 @@
-![Actividad](/Assest/Actividad%20n1.jpg)
+![Actividad](/Assets/Actividad%20n1.jpg)
