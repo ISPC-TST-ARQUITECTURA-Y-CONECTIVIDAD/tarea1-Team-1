@@ -1,3 +1,3 @@
-## **Pregunta 5**
+## **Pregunta 6**
 
-*¿Que es la comunicacion de datos en serie? Describa su funcionamiento.*
+*¿Cuales son los protocolos serie mas usados? Nombre 3 y describalos.*
